@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------
-//                               SortingApp                                 //
-//                      Aplikasi Penyortiran Angka                          //
+                               SortingApp                                 
+                      Aplikasi Penyortiran Angka                          
 ------------------------------------------------------------------------------
 SortingApp adalah aplikasi berbasis konsol yang dirancang untuk membantu 
 pengguna mengurutkan angka menggunakan tiga metode sorting, yaitu: 
