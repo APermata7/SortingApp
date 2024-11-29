@@ -1,4 +1,3 @@
-## Data ##
 - Nama          : Aulia Permata Kumala
 - NIM           : 235150701111001
 - Program Studi : Teknologi Informasi
