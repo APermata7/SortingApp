@@ -1,13 +1,13 @@
 ## Data ##
-Nama          : Aulia Permata Kumala
-NIM           : 235150701111001
-Program Studi : Teknologi Informasi
-Mata Kuliah   : Algoritma dan Strukur Data
+- Nama          : Aulia Permata Kumala
+- NIM           : 235150701111001
+- Program Studi : Teknologi Informasi
+- Mata Kuliah   : Algoritma dan Strukur Data
 
-#------------------------------------------------------------------------------#
+------------------------------------------------------------------------------
                                SortingApp                                 
                       Aplikasi Penyortiran Angka                          
-#------------------------------------------------------------------------------#
+------------------------------------------------------------------------------
 SortingApp adalah aplikasi berbasis konsol yang dirancang untuk membantu 
 pengguna mengurutkan angka menggunakan tiga metode sorting, yaitu: 
 1. Bubble Sort, 
